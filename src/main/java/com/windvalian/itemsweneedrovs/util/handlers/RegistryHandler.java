@@ -1,7 +1,7 @@
-package com.windvalian.ItemsWeNeedROV.util.handlers;
+package com.windvalian.itemsweneedrovs.util.handlers;
 
-import com.windvalian.ItemsWeNeedROV.init.ModItems;
-import com.windvalian.ItemsWeNeedROV.util.IHasModel;
+import com.windvalian.itemsweneedrovs.init.ModItems;
+import com.windvalian.itemsweneedrovs.util.IHasModel;
 
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;

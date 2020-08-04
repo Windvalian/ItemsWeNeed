@@ -1,7 +1,7 @@
-package com.windvalian.ItemsWeNeedROV;
+package com.windvalian.itemsweneedrovs;
 
-import com.windvalian.ItemsWeNeedROV.proxy.CommonProxy;
-import com.windvalian.ItemsWeNeedROV.util.Reference;
+import com.windvalian.itemsweneedrovs.proxy.CommonProxy;
+import com.windvalian.itemsweneedrovs.util.Reference;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;

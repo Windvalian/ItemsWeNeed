@@ -1,4 +1,4 @@
-package com.windvalian.ItemsWeNeedROV.proxy;
+package com.windvalian.itemsweneedrovs.proxy;
 
 import net.minecraft.item.Item;
 

@@ -1,8 +1,8 @@
-package com.windvalian.ItemsWeNeedROV.items;
+package com.windvalian.itemsweneedrovs.items;
 
-import com.windvalian.ItemsWeNeedROV.Main;
-import com.windvalian.ItemsWeNeedROV.init.ModItems;
-import com.windvalian.ItemsWeNeedROV.util.IHasModel;
+import com.windvalian.itemsweneedrovs.Main;
+import com.windvalian.itemsweneedrovs.init.ModItems;
+import com.windvalian.itemsweneedrovs.util.IHasModel;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;

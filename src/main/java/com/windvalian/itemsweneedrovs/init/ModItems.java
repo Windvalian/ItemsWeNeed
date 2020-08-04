@@ -1,9 +1,9 @@
-package com.windvalian.ItemsWeNeedROV.init;
+package com.windvalian.itemsweneedrovs.init;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.windvalian.ItemsWeNeedROV.items.ItemBase;
+import com.windvalian.itemsweneedrovs.items.ItemBase;
 
 import net.minecraft.item.Item;
 
