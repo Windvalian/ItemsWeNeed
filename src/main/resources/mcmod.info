@@ -1,0 +1,16 @@
+[
+{
+  "modid": "iwn",
+  "name": "ItemsWeNeedROV",
+  "description": "It's what we need but don't have or doesn't exist for the Realm of Velt modded RPG.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Windvalian"],
+  "credits": "Keegash did the models and stuffs",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
